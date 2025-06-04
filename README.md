@@ -22,3 +22,5 @@ Las media queries se implementan para ajustar el tamaño de texto, márgenes, im
 La fuente principal es **Inter**, cargada localmente mediante `@font-face`:
 
 ## GitHub pages
+
+[GitHub Pages link](https://gonzalott.github.io/web_project_homeland/)
