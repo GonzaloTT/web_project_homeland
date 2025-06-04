@@ -19,6 +19,10 @@
   margin: 0 0 40px;
 }
 
+.content__text {
+  color: #fff;
+}
+
 .content__text_main {
   max-width: 738px;
   font-weight: 400;
