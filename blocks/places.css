@@ -89,6 +89,7 @@
 
 .places__link {
   grid-area: artist;
+  text-decoration: none;
 }
 
 .places__link_heading {
