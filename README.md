@@ -5,7 +5,19 @@
 - **HTML5**
 - **CSS3** (diseño responsivo con media queries)
 - **Fuentes locales** (Inter, desde Google Fonts en formato `.woff2`)
-- **Diseño Mobile First**
+- **Diseño Desktop First**
+
+## ⚙️ Aptitudes Demostradas
+
+Este proyecto incorpora una variedad de habilidades en desarrollo web moderno:
+
+- Uso avanzado de **Grid Layout** para organizar el contenido de manera flexible y adaptativa
+- Aplicación de **Media Queries** para diseño responsivo en tres puntos de ruptura
+- Implementación de **degradados** para lograr efectos visuales atractivos
+- Uso de **sombreados** (`box-shadow`, `text-shadow`) para dar profundidad y jerarquía visual
+- Integración de **fuentes personalizadas** cargadas localmente
+- Organización semántica de contenido con **estructuras claras en HTML**
+- Adaptabilidad total a diferentes dispositivos gracias al enfoque **Mobile First**
 
 ## 📱 Puntos de Ruptura (Breakpoints)
 
@@ -19,8 +31,6 @@ Las media queries se implementan para ajustar el tamaño de texto, márgenes, im
 
 ## 🔤 Fuentes
 
-La fuente principal es **Inter**, cargada localmente mediante `@font-face`:
-
-## GitHub pages
+La fuente principal es **Inter**, cargada localmente mediante `@font-face`.
 
 [GitHub Pages link](https://gonzalott.github.io/web_project_homeland/)
