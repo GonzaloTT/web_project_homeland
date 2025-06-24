@@ -8,7 +8,7 @@
   max-width: 830px;
   display: flex;
   flex-direction: column;
-  margin: 0 302px 92px 148px;
+  margin: 0 302px 118px 148px;
 }
 
 .content__title {
@@ -51,7 +51,7 @@
 @media screen and (max-width: 1023px) {
   .content__intro {
     max-width: 720px;
-    margin: 0 24px 88px;
+    margin: 0 24px 64px;
   }
 
   .content__title {
@@ -79,7 +79,7 @@
 @media screen and (max-width: 543px) {
   .content__intro {
     max-width: 288px;
-    margin: 0 16px 64px;
+    margin: 0 16px 38px;
   }
 
   .content__title {
