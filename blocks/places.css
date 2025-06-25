@@ -147,11 +147,14 @@
     margin: 0;
   }
 
+  .places__content:first-of-type .places__header {
+    margin-top: 22px;
+  }
+
   .places__header {
     max-width: 340px;
     font-size: 42px;
     line-height: 1.1;
-    margin: 22px 0 0;
   }
 
   .places__image {
@@ -160,9 +163,14 @@
     max-height: 340px;
   }
 
+  .places__content:nth-of-type(3) .places__link_heading {
+    margin-top: 47px;
+  }
+
   .places__link_heading {
     margin: 0 285px 8px 0;
     text-decoration: none;
+    margin-top: 10px;
   }
 
   .places__link_artist {
@@ -245,9 +253,10 @@
     max-width: 268px;
     max-height: 934px;
     gap: 25px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  }
+
+  .places__paragraph_item {
+    margin: 0;
   }
 
   .places__button {
